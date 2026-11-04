@@ -1,0 +1,11 @@
+# Local credentials and generated runtime data
+.env
+.env.*
+!.env.example
+instance/
+outputs/
+projects/video_jobs.json
+projects/sounds.json
+__pycache__/
+*.py[cod]
+.venv/
